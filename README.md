@@ -46,3 +46,7 @@ python3 crime_regression.py
 ```
 
 *district_ripser.py must be run before crime_regression.py is run
+
+## Crimes-in-boston.zip
+zip file containing the Boston crime data
+file must be extracted from the zip and placed in the same directory as the code being run
