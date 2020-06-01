@@ -2,14 +2,14 @@
 Uses Topological Data Analysis to analyze Boston Crime Data and Predict Crime rates in each district by month
 
 ## Dependencies
-numpy
-ripser
-persim
-pandas
-time
-matplotlib
-seaborn
-sklearn
+1.  numpy
+2.  ripser
+3.  persim
+4.  pandas
+5.  time
+6.  matplotlib
+7.  seaborn
+8.  sklearn
 
 All dependencies can be installed via the terminal using the command:
 ```bash
